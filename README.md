@@ -10,3 +10,13 @@ The analysis consisted of 2021 weather station data points from nine stations. M
 - Mean precipitation for the year was .18 
 - Max precipitation 6.7
 
+![image](https://user-images.githubusercontent.com/88912539/139769647-e0e80183-750d-40fc-b5a6-b54dd6836725.png)
+
+Temperature data was also analyzed to determine if the weather is compatible with surfing and milkshakes. The months of June and December were evaluated. 
+
+June Temperatures
+- Mean 75 degrees
+- Low 64 degrees
+- High 85 degrees
+
+
