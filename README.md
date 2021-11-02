@@ -17,6 +17,13 @@ Temperature data was also analyzed to determine if the weather is compatible wit
 June Temperatures
 - Mean 75 degrees
 - Low 64 degrees
-- High 85 degrees
+- High 85 degrees     ![image](https://user-images.githubusercontent.com/88912539/139769905-981c9d0f-be45-4614-b98c-a8fd48958749.png)
 
+
+![image](https://user-images.githubusercontent.com/88912539/139769865-fc3eb2c5-4705-4434-9ab2-c57e173fa578.png)
+
+December Temperatures
+- Mean 71 degrees
+- Low 56 degrees
+- High 83 degrees
 
